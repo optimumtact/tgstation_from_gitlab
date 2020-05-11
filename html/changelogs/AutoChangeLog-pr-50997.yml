@@ -1,0 +1,6 @@
+author: "imsxz"
+delete-after: True
+changes: 
+  - balance: "reverts the recent cult stun nerf, allowing mindshielded people to be stunned again"
+  - balance: "cult barrier runes can be smashed until they break"
+  - balance: "cult leaders can no longer use final reckoning in narsie summon locations"
